@@ -92,4 +92,6 @@ li {
 
 .colors li img {
     width: 100%;
+    -webkit-box-shadow: 1px 1px 1px 0 #303030;
+    box-shadow: 1px 1px 1px 0 #303030;
 }
