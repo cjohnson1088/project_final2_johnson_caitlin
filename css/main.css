@@ -12,7 +12,7 @@ header {
     background-color: #402b00;
     text-align: center;
     -webkit-box-shadow: 0 2px 4px 1px #593c01;
-    box-shadow: 0 2px 4px 1px #593c01;
+    box-shadow: 0 2px 1px 1px #593c01;
     position: relative;
 }
 
