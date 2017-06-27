@@ -76,10 +76,20 @@ h2 {
     color: #402b00;
 }
 
-.icons {
-
-}
-
 li {
     list-style: none;
+}
+
+.colors {
+    text-align: center;
+    padding: 2%;
+}
+
+.colors li {
+    width: 49%;
+    display: inline-block;
+}
+
+.colors li img {
+    width: 100%;
 }
