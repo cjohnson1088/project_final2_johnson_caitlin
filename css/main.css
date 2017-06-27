@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 body {
     background-color: #edd089;
     font-family: 'Lato', sans-serif;
@@ -63,7 +64,7 @@ h2 {
 
 .button a p {
     position: relative;
-    top: -37px;
+    top: -35px;
 }
 
 .button a:hover p,
