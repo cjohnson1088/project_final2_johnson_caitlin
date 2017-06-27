@@ -66,6 +66,15 @@ h2 {
     top: -37px;
 }
 
+.button a:hover p,
+.button a:active p {
+    text-shadow: 2px 2px 3px #2e2202;
+}
+
+.button a:active p {
+    color: #402b00;
+}
+
 .icons {
 
 }
