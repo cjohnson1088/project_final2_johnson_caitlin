@@ -23,3 +23,7 @@ h2 {
 .typography {
     background-color: white;
 }
+
+li {
+    list-style: none;
+}
