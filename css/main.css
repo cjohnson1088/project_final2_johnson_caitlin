@@ -3,3 +3,13 @@ body {
     font-family: 'Lato', sans-serif;
     color: #333333;
 }
+
+.tk-quimby-mayoral {
+    font-family: quimby-mayoral, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.typography {
+    background-color: white;
+}
