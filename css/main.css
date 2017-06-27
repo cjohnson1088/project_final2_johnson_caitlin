@@ -18,6 +18,7 @@ header {
 h2 {
     color: #cda349;
     font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
 }
 
 .tk-quimby-mayoral {
@@ -25,6 +26,7 @@ h2 {
     font-family: quimby-mayoral, sans-serif;
     font-style: normal;
     font-weight: 400;
+    font-size: 2rem;
 }
 
 .typography {
