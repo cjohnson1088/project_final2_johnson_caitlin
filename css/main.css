@@ -45,6 +45,27 @@ h2 {
     padding-bottom: 4%;
 }
 
+.button {
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+}
+
+.button img {
+    width: 100%;
+    max-width: 200px;
+}
+
+.button a {
+    text-decoration: none;
+    color: white;
+}
+
+.button a p {
+    position: relative;
+    top: -37px;
+}
+
 .icons {
 
 }
