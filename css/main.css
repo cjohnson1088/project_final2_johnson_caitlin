@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     background-color: #edd089;
     font-family: 'Lato', sans-serif;
@@ -33,6 +37,10 @@ h2 {
 .typography {
     background-color: white;
     padding: 2%;
+}
+
+.icons {
+
 }
 
 li {
