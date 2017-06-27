@@ -104,8 +104,14 @@ li {
 
 .details li.a,
 .details li.b {
-    width: 49%;
+    width: 45%;
+    padding: 1%;
     display: inline-block;
+}
+
+.details li.c img {
+    width: 92%;
+    margin: 2%;
 }
 
 .details li img {
