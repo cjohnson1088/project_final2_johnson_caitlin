@@ -4,6 +4,10 @@ body {
     color: #333333;
 }
 
+header {
+    background-color: #402b00;
+}
+
 h2 {
     color: #cda349;
     font-family: 'Roboto', sans-serif;
