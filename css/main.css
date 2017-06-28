@@ -19,6 +19,7 @@ header {
 
 #logo {
     width: 15%;
+    max-width: 115px;
 }
 
 h2 {
@@ -117,4 +118,24 @@ li {
 .details li img {
     width: 100%;
     background-color: white;
+}
+
+@media (min-width: 700px) {
+    .typography {
+        float: left;
+        position: absolute;
+        width: 50%;
+        margin-top: 3%;
+        margin-left: 3%;
+    }
+    .swatches {
+        width: 43%;
+        float: right;
+        position: relative;
+        margin-top: 2%;
+    }
+    .colors li {
+        width: calc(100% / 5);
+        padding: 2%;
+    }
 }
