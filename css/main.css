@@ -47,6 +47,15 @@ h2 {
     padding-bottom: 4%;
 }
 
+.typography p a {
+    text-decoration: none;
+    color: #cda349;
+}
+
+.typography p a:hover {
+    border-bottom: 2px #cda349 dotted;
+}
+
 .button {
     display: inline-block;
     width: 49%;
