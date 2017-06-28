@@ -139,3 +139,21 @@ li {
         padding: 2%;
     }
 }
+
+@media (min-width: 1000px) {
+    .colors {
+        float: left;
+        width: 17%;
+        padding-left: 17px;
+        padding-top: 10px;
+    }
+    .colors li {
+        width: 100%;
+        padding: 0;
+    }
+    .details {
+        width: 75%;
+        float: right;
+        padding: 1%;
+    }
+}
